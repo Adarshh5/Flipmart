@@ -3,7 +3,7 @@ import sys
 
 from db import DBhelper
 
-class FlipKart:
+class shoppinglyx:
 
     def __init__(self):
         self.db = DBhelper()
@@ -52,4 +52,4 @@ class FlipKart:
 
 
 
-obj = FlipKart()
+obj = shoppinglyx()
